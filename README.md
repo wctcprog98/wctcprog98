@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from Milwaukee, Wisconsin
-- 🔭 Working on multiple frontend and backend project using Vue, JS, HTML, CSS, Java, Nodejs, and SQL
+- 🔭 Working on multiple Front End and Back End projects using Vue, JS, HTML, CSS, Java, Nodejs, and SQL
 - 🌱 Learning design patterns in depth
 <br>
 
