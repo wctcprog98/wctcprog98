@@ -1,8 +1,13 @@
 ### Hello World 👋
 I am a fullstack software engineer from Milwaukee, Wisconsin
+<br>
+Recently I started a software engineering program at Hackbright Academy, where I am gaining skills and knowledge in web development and computer science fundamentals. Prior to that, I accepted a position as a software engineer apprentice. I was responsible for team progress, DRY code, approving push requests, and meeting deadlines. Before that I worked as a sales manager, where I trained and mentored a team of 30 sales consultants. I loved being in sales but I've always loved working with computers. Programming provides me with challenging problems, allowing me to utilize my problem-solving skills to create solutions. I would love the opportunity to combine my education and skills into a software engineering position after Hackbright.
+<br>
 - 🔭 Working on multiple Front End and Back End projects using Vue, JS, HTML, CSS, Java, Nodejs, and SQL
 - 🌱 Learning design patterns in depth
+- Writing DRY, clean reusable code. 
 <br>
+
 
 ## Connect with me
 
